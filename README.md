@@ -35,7 +35,6 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Hippos World</p>
     </footer>
 </body>
 </html>
